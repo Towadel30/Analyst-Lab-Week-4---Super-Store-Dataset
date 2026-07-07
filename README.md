@@ -110,7 +110,6 @@ The dashboard includes:
 <img width="1239" height="695" alt="image" src="https://github.com/user-attachments/assets/9606b3a2-bf84-4c1e-959b-96f2d678f2a7" />
 
 
-> **Note:** Replace `Dashboard_Screenshot.png` with the actual name of your uploaded dashboard image.
 
 ---
 
